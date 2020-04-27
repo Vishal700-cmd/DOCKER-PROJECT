@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+  mydbos:
+    image: mysql:5.7
+    volumes:
+      - mysql_storage_new:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_USER: vishal
+      MYSQL_PASSWORD: redhat
+      MYSQL_DATABASE: mydb
+
+  postos:
+    image: drupal:8.8.5-apache
+    restart: always
+    depends_on:
+      - mydbos
+    ports:
+      - 8080:80
+    environment:
+      POSTGRES_DB_HOST: mydbos
+      POSTGRES_DB_USER: vishal
+      POSTGRES_DB_PASSWORD: redhat
+      POSTGRES_DB_NAME: mydb
+
+    volumes:
+      - dp_storage_new:/var/www/html
+
+volumes:
+        dp_storage_new:
+        mysql_storage_new:
+
