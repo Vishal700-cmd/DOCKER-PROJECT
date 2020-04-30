@@ -4,6 +4,7 @@ I made Two Tier Artictecture:-
 1.Web Tier:-Where front-end application code is hosted. Front-end application is openly accessible over the internet.
 
 2.Database Tier:-Where the application Database engine and Database is hosted. The database is only accessible from Web Tier only.
+
 <img src="https://www.codeproject.com/KB/applications/1262641/Single_Server_-_Two_Tier.png" width="500" height="300">
 
 This Project is related to Docker Compose and the file is in yml.
