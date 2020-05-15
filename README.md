@@ -7,7 +7,7 @@ I made Two Tier Architecture:-
 
 2.Database Tier:-Where the application Database engine and Database is hosted. The database is only accessible from Web Tier only.
 
-<img src="https://www.codeproject.com/KB/applications/1262641/Single_Server_-_Two_Tier.png" width="500" height="300">
+<img src="https://www.codeproject.com/KB/applications/1262641/Single_Server_-_Two_Tier.png" width="800" height="500">
 
 
 # I am Going to Describe the Hole Project;
