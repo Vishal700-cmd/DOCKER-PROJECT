@@ -69,7 +69,12 @@ I made Two Tier Artictecture:-
 <img src="https://github.com/Vishal700-cmd/DOCKER-PROJECT/blob/master/Screenshot%20from%202020-04-27%2009-43-59.png" width="800" height="500">
 
 
+
+
+
+
+
 <img src="https://github.com/Vishal700-cmd/DOCKER-PROJECT/blob/master/Screenshot%20from%202020-04-27%2009-45-09.png" width="800" height="500">
 
 
-## Thnuku Vimal Daga Sir
+## Thanku Vimal Daga Sir
