@@ -22,7 +22,7 @@ I made Two Tier Artictecture:-
   After that I pull the two images from Docker Hub
 
    1.MYSQL:5.7:- 
-     -Use this commmand```docker pull mysql:5.7``` 
+     -Use this commmand```docker pull mysql:5.7```
      - MySQL Image go to this page:https://hub.docker.com/_/mysql
   
   
