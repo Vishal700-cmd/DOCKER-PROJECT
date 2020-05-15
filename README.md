@@ -10,7 +10,7 @@ I made Two Tier Artictecture:-
 <img src="https://www.codeproject.com/KB/applications/1262641/Single_Server_-_Two_Tier.png" width="500" height="300">
 
 
-# I am Going to decribe the hole Project;
+# I am Going to Describe the Hole Project;
 
 ## 1. Pre-configurations:-
  - I am using RedHat Enterprise Linux. Plus I have also installed Docker Software in it. You can use any OS and inside that      OS you should have docker software installed.
@@ -59,11 +59,17 @@ I made Two Tier Artictecture:-
   
   
 ## 7. Drupal:-
-  - Got to your browser and type ```localhost:80``` and done you will be able to see your Drupal
+  - Got to your browser and type ```localhost:8080``` and done you will be able to see your Drupal
 
 <img src="https://github.com/Vishal700-cmd/DOCKER-PROJECT/blob/master/Screenshot%20from%202020-04-27%2009-43-43.png" width="800" height="500">
+
 ### Further process on Drupal
+
+
 <img src="https://github.com/Vishal700-cmd/DOCKER-PROJECT/blob/master/Screenshot%20from%202020-04-27%2009-43-59.png" width="800" height="500">
 
+
 <img src="https://github.com/Vishal700-cmd/DOCKER-PROJECT/blob/master/Screenshot%20from%202020-04-27%2009-45-09.png" width="800" height="500">
-# Thnuku Vimal Daga Sir
+
+
+## Thnuku Vimal Daga Sir
