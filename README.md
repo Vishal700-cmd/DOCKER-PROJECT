@@ -1,7 +1,7 @@
 # Docker_Project_on_Drupal
 
 Under ``IIEC-RISE 1.0`` Campaign I learnt about Docker under the guidance of Vimal Daga Sir.
-I made Two Tier Artictecture:-
+I made Two Tier Architecture:-
 
 1.Web Tier:-Where front-end application code is hosted. Front-end application is openly accessible over the internet.
 
