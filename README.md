@@ -10,7 +10,7 @@ I made Two Tier Architecture:-
 <img src="https://www.codeproject.com/KB/applications/1262641/Single_Server_-_Two_Tier.png" width="800" height="500">
 
 
-# I am Going to Describe the Hole Project;
+# I am Going to Describe the Whole Project;
 
 ## 1. Pre-configurations:-
  - I am using RedHat Enterprise Linux. Plus I have also installed Docker Software in it. You can use any OS and inside that      OS you should have docker software installed.
